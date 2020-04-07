@@ -1,0 +1,17 @@
+A website consists of many web pages.HTML is a computer language which helps us to create web pages to be displayed on the WWW(World Wide Web).
+A markup language is a set of markup tags.These tags are used to describe web pages. So, we can say that HTML is a collection
+of tags to design the layout and hyperlinks of web pages.
+HTML is not a programming language . It is a markup language for describing web documents (web pages). It defines the structure of web pages and determines how data is displayed online.
+Programming langusges are written to process data and perform different tasks on a computer. HTML doesn't really process data or perform 
+tasks like a programming language.
+HTML TAGS:
+HTML tags determine the way the web browser will displsy the text . We give instructions on our web page with the help of these 
+HTML tags . HTML tags normally come in pairs, comprising start and end tags , like <b> and </b>, these tags are called container tags.Some tags stand alone and are called empty tags.Eg:<br>
+The basic HTML tags are:
+<!DOCKTYPE>:IT defines the document type and HTML version.
+<html>: It encloses the complete HTML document , document header, and body tags.
+<head>: It represents the document's header , which can hold other HTML tags.
+<title>: It is used inside the <head> tag to mention the document title.
+<body>: It represents the document's body, which includes other HTML tags like <h1>, <div>,<p>, etc.
+<h1>: It represents a heading in a document.
+<p>: It represents the start of a paragraph.
